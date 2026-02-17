@@ -1,0 +1,7 @@
+- List of issues
+- List of wanted improvements
+- List of wanted features
+- How to pull request
+- Background information (Funding, sponsors, company, etc)
+- Release notes
+- Repository info (Private information)
